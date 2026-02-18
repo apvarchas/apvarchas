@@ -16,3 +16,5 @@ Systems • Automation • Practical Tools
 
 ### Philosophy
 Build small things. Make them reliable. Then make them beautiful.
+### Project
+[tiny — file organizer](https://github.com/apvarchas/tidy)
